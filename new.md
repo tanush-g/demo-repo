@@ -1,3 +1,3 @@
 # Hello
 
-This is a test docuement.
+This is a test document.
